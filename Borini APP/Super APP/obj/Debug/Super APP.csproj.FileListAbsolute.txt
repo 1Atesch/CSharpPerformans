@@ -1,0 +1,38 @@
+C:\Users\Ateş\Desktop\Super APP\Super APP\Super APP\bin\Debug\Super APP.exe.config
+C:\Users\Ateş\Desktop\Super APP\Super APP\Super APP\bin\Debug\Super APP.exe
+C:\Users\Ateş\Desktop\Super APP\Super APP\Super APP\bin\Debug\Super APP.pdb
+C:\Users\Ateş\Desktop\Super APP\Super APP\Super APP\obj\Debug\Super APP.csproj.AssemblyReference.cache
+C:\Users\Ateş\Desktop\Super APP\Super APP\Super APP\obj\Debug\Super APP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ateş\Desktop\Super APP\Super APP\Super APP\obj\Debug\Super_APP.Form1.resources
+C:\Users\Ateş\Desktop\Super APP\Super APP\Super APP\obj\Debug\Super_APP.FormKare.resources
+C:\Users\Ateş\Desktop\Super APP\Super APP\Super APP\obj\Debug\Super_APP.Properties.Resources.resources
+C:\Users\Ateş\Desktop\Super APP\Super APP\Super APP\obj\Debug\Super APP.csproj.GenerateResource.cache
+C:\Users\Ateş\Desktop\Super APP\Super APP\Super APP\obj\Debug\Super APP.csproj.CoreCompileInputs.cache
+C:\Users\Ateş\Desktop\Super APP\Super APP\Super APP\obj\Debug\Super APP.exe
+C:\Users\Ateş\Desktop\Super APP\Super APP\Super APP\obj\Debug\Super APP.pdb
+C:\Users\Ateş\Desktop\Super APP\Super APP\Super APP\obj\Debug\Super_APP.FormPoz.resources
+C:\Users\Ateş\Desktop\Super APP\Super APP\Super APP\obj\Debug\Super_APP.FormFak.resources
+C:\Users\Ateş\Desktop\Super APP\Super APP\Super APP\obj\Debug\Super_APP.FormGeo.resources
+C:\Users\Ateş\Desktop\Super APP\Super APP\Super APP\obj\Debug\Super_APP.FormBolum.resources
+C:\Users\Ateş\Desktop\Super APP\Super APP\Super APP\obj\Debug\Super_APP.FormYuzde.resources
+C:\Users\Ateş\Desktop\Super APP\Super APP\Super APP\obj\Debug\Super_APP.FormArasındaki.resources
+C:\Users\Ateş\Desktop\Super APP\Super APP\Super APP\obj\Debug\Super_APP.FormAna.resources
+C:\Users\Ateş\Desktop\Borini APP\Super APP\bin\Debug\Super APP.exe.config
+C:\Users\Ateş\Desktop\Borini APP\Super APP\bin\Debug\Super APP.exe
+C:\Users\Ateş\Desktop\Borini APP\Super APP\bin\Debug\Super APP.pdb
+C:\Users\Ateş\Desktop\Borini APP\Super APP\obj\Debug\Super APP.csproj.AssemblyReference.cache
+C:\Users\Ateş\Desktop\Borini APP\Super APP\obj\Debug\Super APP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ateş\Desktop\Borini APP\Super APP\obj\Debug\Super_APP.Form1.resources
+C:\Users\Ateş\Desktop\Borini APP\Super APP\obj\Debug\Super_APP.FormArasındaki.resources
+C:\Users\Ateş\Desktop\Borini APP\Super APP\obj\Debug\Super_APP.FormGeo.resources
+C:\Users\Ateş\Desktop\Borini APP\Super APP\obj\Debug\Super_APP.FormAna.resources
+C:\Users\Ateş\Desktop\Borini APP\Super APP\obj\Debug\Super_APP.FormKare.resources
+C:\Users\Ateş\Desktop\Borini APP\Super APP\obj\Debug\Super_APP.FormPoz.resources
+C:\Users\Ateş\Desktop\Borini APP\Super APP\obj\Debug\Super_APP.FormFak.resources
+C:\Users\Ateş\Desktop\Borini APP\Super APP\obj\Debug\Super_APP.FormBolum.resources
+C:\Users\Ateş\Desktop\Borini APP\Super APP\obj\Debug\Super_APP.FormYuzde.resources
+C:\Users\Ateş\Desktop\Borini APP\Super APP\obj\Debug\Super_APP.Properties.Resources.resources
+C:\Users\Ateş\Desktop\Borini APP\Super APP\obj\Debug\Super APP.csproj.GenerateResource.cache
+C:\Users\Ateş\Desktop\Borini APP\Super APP\obj\Debug\Super APP.csproj.CoreCompileInputs.cache
+C:\Users\Ateş\Desktop\Borini APP\Super APP\obj\Debug\Super APP.exe
+C:\Users\Ateş\Desktop\Borini APP\Super APP\obj\Debug\Super APP.pdb
