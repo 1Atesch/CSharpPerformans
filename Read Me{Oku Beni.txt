@@ -1,0 +1,4 @@
+Selami, bu uygulama matematiksel işlemlerde sana yardımcı olabilmek için yazıldı. Keyfini Çıkar <3.
+
+
+Hi, this application was written to help you in math. Enjoy it <3
